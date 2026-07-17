@@ -1,6 +1,6 @@
 # 📊 Crypto Market Intelligence Dashboard
 
-An end-to-end data pipeline that automates cryptocurrency market data collection from the **CoinMarketCap API**, builds a historical time-series dataset, and turns it into an interactive analytics dashboard covering 15 major cryptocurrencies — Bitcoin, Ethereum, Tether, BNB, USDC, XRP, Solana, TRON, Hyperliquid, Dogecoin, Zcash, UNUS SED LEO, Stellar, Monero, and Chainlink.
+An end-to-end data pipeline that automates cryptocurrency market data collection from the **CoinMarketCap API**, builds a historical time-series dataset, and turns it into an interactive analytics dashboard covering 15 major cryptocurrencies - Bitcoin, Ethereum, Tether, BNB, USDC, XRP, Solana, TRON, Hyperliquid, Dogecoin, Zcash, UNUS SED LEO, Stellar, Monero, and Chainlink.
 
 Built as a portfolio project to demonstrate practical **Data Analyst / Data Scientist** skills: API integration, automated data pipelines, data cleaning and transformation, and multi-format data visualization.
 
@@ -8,7 +8,7 @@ Built as a portfolio project to demonstrate practical **Data Analyst / Data Scie
 
 ## 🎯 Why this project
 
-Financial and crypto markets generate fast-moving, high-volume data — exactly the kind of environment London's fintech and trading firms work in daily. This project mirrors that workflow end to end:
+Financial and crypto markets generate fast-moving, high-volume data - exactly the kind of environment London's fintech and trading firms work in daily. This project mirrors that workflow end to end:
 
 - Pulling live data from a third-party REST API
 - Handling rate limits, errors, and scheduled/automated collection
@@ -29,9 +29,9 @@ Financial and crypto markets generate fast-moving, high-volume data — exactly 
 
 ## ✨ Features
 
-- **Automated data collection** — scheduled API calls (configurable interval and run count) with error handling so a single failed request never breaks the pipeline
-- **Growing historical dataset** — each run appends fresh data to a CSV, enabling genuine time-series analysis rather than a single snapshot
-- **Trend analysis** — percent change aggregated and reshaped across six timeframes (1h, 24h, 7d, 30d, 60d, 90d) per coin
+- **Automated data collection** - scheduled API calls (configurable interval and run count) with error handling so a single failed request never breaks the pipeline
+- **Growing historical dataset** - each run appends fresh data to a CSV, enabling genuine time-series analysis rather than a single snapshot
+- **Trend analysis** -  percent change aggregated and reshaped across six timeframes (1h, 24h, 7d, 30d, 60d, 90d) per coin
 - **14 visualizations** spanning market structure, momentum, and price movement (see gallery below)
 
 ## 📁 Project Structure
@@ -98,7 +98,7 @@ Share of total market capitalization held by each coin.
 ![Market Cap Dominance](screenshots/03_market_cap_dominance.png)
 
 ### 24h Volume vs 24h % Change
-Bubble size encodes market cap — reveals which coins combine high trading volume with strong price movement.
+Bubble size encodes market cap - reveals which coins combine high trading volume with strong price movement.
 
 ![Volume Bubble Chart](screenshots/04_volume_bubble_chart.png)
 
@@ -144,6 +144,10 @@ This project is open source and available under the MIT License.
 
 ## 👤 Author
 
-**Vrutant** — Data Analytics portfolio project.
+**Vrutant** Data Analytics portfolio project.
 Open to Data Analyst / Data Scientist opportunities in London.
-[www.linkedin.com/in/vrutantvaghela](#) · [GitHub](https://github.com/vrut-data)
+
+
+[www.linkedin.com/in/vrutantvaghela]
+
+[GitHub](https://github.com/vrut-data)

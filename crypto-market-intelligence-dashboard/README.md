@@ -147,7 +147,7 @@ This project is open source and available under the MIT License.
 
 ## 👤 Author
 
-**Vrutant** — Data Analytics portfolio project.
+**Vrutant** Data Analytics portfolio project.
 Open to Data Analyst / Data Scientist opportunities in London.
 
 [LinkedIn](https://www.linkedin.com/in/vrutantvaghela) · [GitHub](https://github.com/vrut-data)

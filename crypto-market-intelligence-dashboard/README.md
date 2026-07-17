@@ -8,7 +8,7 @@ Built as a portfolio project to demonstrate practical **Data Analyst / Data Scie
 
 ## 🎯 Why this project
 
-Financial and crypto markets generate fast-moving, high-volume data — exactly the kind of environment London's fintech and trading firms work in daily. This project mirrors that workflow end to end:
+Financial and crypto markets generate fast-moving, high-volume data - exactly the kind of environment London's fintech and trading firms work in daily. This project mirrors that workflow end to end:
 
 - Pulling live data from a third-party REST API
 - Handling rate limits, errors, and scheduled/automated collection
